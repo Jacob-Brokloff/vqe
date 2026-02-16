@@ -9,5 +9,5 @@ You can run this locally with the Aersimulator, or you can input your API
 
 If you want to run the program just run this executable file in bash
   -   ./run.sh
-  -   I diagram showing the final values will pop up as a pdf in your browser
+  -   A diagram showing the final values will pop up as a pdf in your browser
   -   Please keep in mind that this script will create a virtual environment, and install any dependencies you don't have. Please be careful.
